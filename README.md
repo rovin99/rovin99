@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rovin99
 - 👀 I’m interested in software development,problem solving and latest technologies.
-- 🌱 I’m currently learning G.H. RAISONI COLLEGE OF ENGINEERING NAGPUR
+- 🌱 I’m currently learning BTECH(IT)
 - 💞
 - 📫 How to reach me rovin9325@gmail.com
 
